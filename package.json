@@ -1,0 +1,11 @@
+{
+  "name": "backend_first_assigment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
